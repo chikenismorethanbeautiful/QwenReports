@@ -1,0 +1,8 @@
+{
+  "avg_confidence": 0.8666666666666666,
+  "avg_response_time": 7.305578112602234,
+  "tool_accuracy": 0.8333333333333334,
+  "multi_hop_solve_rate": 0.5,
+  "retried_cases_count": 0,
+  "total_cases": 6
+}
